@@ -1,0 +1,20 @@
+D:\XLA_Project_Final\Mini_Project\Project_13\C#\Segmentation\bin\Debug\Segmentation.exe.config
+D:\XLA_Project_Final\Mini_Project\Project_13\C#\Segmentation\bin\Debug\Segmentation.exe
+D:\XLA_Project_Final\Mini_Project\Project_13\C#\Segmentation\bin\Debug\Segmentation.pdb
+D:\XLA_Project_Final\Mini_Project\Project_13\C#\Segmentation\obj\Debug\Segmentation.Form1.resources
+D:\XLA_Project_Final\Mini_Project\Project_13\C#\Segmentation\obj\Debug\Segmentation.Properties.Resources.resources
+D:\XLA_Project_Final\Mini_Project\Project_13\C#\Segmentation\obj\Debug\Segmentation.csproj.GenerateResource.cache
+D:\XLA_Project_Final\Mini_Project\Project_13\C#\Segmentation\obj\Debug\Segmentation.csproj.CoreCompileInputs.cache
+D:\XLA_Project_Final\Mini_Project\Project_13\C#\Segmentation\obj\Debug\Segmentation.exe
+D:\XLA_Project_Final\Mini_Project\Project_13\C#\Segmentation\obj\Debug\Segmentation.pdb
+D:\XLA_Project_Final\Mini_Project\Project_13\C#\Segmentation\obj\Debug\Segmentation.csproj.AssemblyReference.cache
+E:\SUBJECT IN UNI\XLA\13\Project_13-20240216T203010Z-001\Project_13\C#\Segmentation\bin\Debug\Segmentation.exe.config
+E:\SUBJECT IN UNI\XLA\13\Project_13-20240216T203010Z-001\Project_13\C#\Segmentation\bin\Debug\Segmentation.exe
+E:\SUBJECT IN UNI\XLA\13\Project_13-20240216T203010Z-001\Project_13\C#\Segmentation\bin\Debug\Segmentation.pdb
+E:\SUBJECT IN UNI\XLA\13\Project_13-20240216T203010Z-001\Project_13\C#\Segmentation\obj\Debug\Segmentation.csproj.AssemblyReference.cache
+E:\SUBJECT IN UNI\XLA\13\Project_13-20240216T203010Z-001\Project_13\C#\Segmentation\obj\Debug\Segmentation.Form1.resources
+E:\SUBJECT IN UNI\XLA\13\Project_13-20240216T203010Z-001\Project_13\C#\Segmentation\obj\Debug\Segmentation.Properties.Resources.resources
+E:\SUBJECT IN UNI\XLA\13\Project_13-20240216T203010Z-001\Project_13\C#\Segmentation\obj\Debug\Segmentation.csproj.GenerateResource.cache
+E:\SUBJECT IN UNI\XLA\13\Project_13-20240216T203010Z-001\Project_13\C#\Segmentation\obj\Debug\Segmentation.csproj.CoreCompileInputs.cache
+E:\SUBJECT IN UNI\XLA\13\Project_13-20240216T203010Z-001\Project_13\C#\Segmentation\obj\Debug\Segmentation.exe
+E:\SUBJECT IN UNI\XLA\13\Project_13-20240216T203010Z-001\Project_13\C#\Segmentation\obj\Debug\Segmentation.pdb

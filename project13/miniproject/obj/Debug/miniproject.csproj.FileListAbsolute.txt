@@ -1,0 +1,30 @@
+D:\XLA_Project_Final\Mini_Project\Project_13\miniproject\bin\Debug\miniproject.exe.config
+D:\XLA_Project_Final\Mini_Project\Project_13\miniproject\bin\Debug\miniproject.exe
+D:\XLA_Project_Final\Mini_Project\Project_13\miniproject\bin\Debug\miniproject.pdb
+D:\XLA_Project_Final\Mini_Project\Project_13\miniproject\obj\Debug\miniproject.csproj.AssemblyReference.cache
+D:\XLA_Project_Final\Mini_Project\Project_13\miniproject\obj\Debug\miniproject.Form1.resources
+D:\XLA_Project_Final\Mini_Project\Project_13\miniproject\obj\Debug\miniproject.Properties.Resources.resources
+D:\XLA_Project_Final\Mini_Project\Project_13\miniproject\obj\Debug\miniproject.csproj.GenerateResource.cache
+D:\XLA_Project_Final\Mini_Project\Project_13\miniproject\obj\Debug\miniproject.csproj.CoreCompileInputs.cache
+D:\XLA_Project_Final\Mini_Project\Project_13\miniproject\obj\Debug\miniproject.exe
+D:\XLA_Project_Final\Mini_Project\Project_13\miniproject\obj\Debug\miniproject.pdb
+E:\SUBJECT IN UNI\XLA\13\Project_13-20240216T203010Z-001\Project_13\miniproject\bin\Debug\miniproject.exe.config
+E:\SUBJECT IN UNI\XLA\13\Project_13-20240216T203010Z-001\Project_13\miniproject\bin\Debug\miniproject.exe
+E:\SUBJECT IN UNI\XLA\13\Project_13-20240216T203010Z-001\Project_13\miniproject\bin\Debug\miniproject.pdb
+E:\SUBJECT IN UNI\XLA\13\Project_13-20240216T203010Z-001\Project_13\miniproject\obj\Debug\miniproject.csproj.AssemblyReference.cache
+E:\SUBJECT IN UNI\XLA\13\Project_13-20240216T203010Z-001\Project_13\miniproject\obj\Debug\miniproject.Form1.resources
+E:\SUBJECT IN UNI\XLA\13\Project_13-20240216T203010Z-001\Project_13\miniproject\obj\Debug\miniproject.Properties.Resources.resources
+E:\SUBJECT IN UNI\XLA\13\Project_13-20240216T203010Z-001\Project_13\miniproject\obj\Debug\miniproject.csproj.GenerateResource.cache
+E:\SUBJECT IN UNI\XLA\13\Project_13-20240216T203010Z-001\Project_13\miniproject\obj\Debug\miniproject.csproj.CoreCompileInputs.cache
+E:\SUBJECT IN UNI\XLA\13\Project_13-20240216T203010Z-001\Project_13\miniproject\obj\Debug\miniproject.exe
+E:\SUBJECT IN UNI\XLA\13\Project_13-20240216T203010Z-001\Project_13\miniproject\obj\Debug\miniproject.pdb
+D:\hk2nam3\thigiacmay\Project\Project_13\miniproject\bin\Debug\miniproject.exe.config
+D:\hk2nam3\thigiacmay\Project\Project_13\miniproject\bin\Debug\miniproject.exe
+D:\hk2nam3\thigiacmay\Project\Project_13\miniproject\bin\Debug\miniproject.pdb
+D:\hk2nam3\thigiacmay\Project\Project_13\miniproject\obj\Debug\miniproject.csproj.AssemblyReference.cache
+D:\hk2nam3\thigiacmay\Project\Project_13\miniproject\obj\Debug\miniproject.Form1.resources
+D:\hk2nam3\thigiacmay\Project\Project_13\miniproject\obj\Debug\miniproject.Properties.Resources.resources
+D:\hk2nam3\thigiacmay\Project\Project_13\miniproject\obj\Debug\miniproject.csproj.GenerateResource.cache
+D:\hk2nam3\thigiacmay\Project\Project_13\miniproject\obj\Debug\miniproject.csproj.CoreCompileInputs.cache
+D:\hk2nam3\thigiacmay\Project\Project_13\miniproject\obj\Debug\miniproject.exe
+D:\hk2nam3\thigiacmay\Project\Project_13\miniproject\obj\Debug\miniproject.pdb
