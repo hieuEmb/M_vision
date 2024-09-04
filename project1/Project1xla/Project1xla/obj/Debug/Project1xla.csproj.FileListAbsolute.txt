@@ -1,0 +1,128 @@
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\Project1xla.exe.config
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\Project1xla.exe
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\Project1xla.pdb
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\Emgu.CV.UI.dll
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\Emgu.CV.World.dll
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\OpenTK.dll
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\OpenTK.GLControl.dll
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\System.Buffers.dll
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\System.Memory.dll
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\System.Numerics.Vectors.dll
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\System.Text.Encodings.Web.dll
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\System.Text.Json.dll
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\System.ValueTuple.dll
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\ZedGraph.dll
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\Emgu.CV.UI.xml
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\Emgu.CV.World.xml
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\OpenTK.xml
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\OpenTK.GLControl.xml
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\System.Buffers.xml
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\System.Memory.xml
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\System.Numerics.Vectors.xml
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\System.Text.Encodings.Web.xml
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\System.Text.Json.xml
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\System.ValueTuple.xml
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\ZedGraph.xml
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\de\ZedGraph.resources.dll
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\es\ZedGraph.resources.dll
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\fr\ZedGraph.resources.dll
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\hu\ZedGraph.resources.dll
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\it\ZedGraph.resources.dll
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\ja\ZedGraph.resources.dll
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\pt\ZedGraph.resources.dll
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\ru\ZedGraph.resources.dll
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\sk\ZedGraph.resources.dll
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\sv\ZedGraph.resources.dll
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\tr\ZedGraph.resources.dll
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\obj\Debug\Project1xla.csproj.AssemblyReference.cache
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\obj\Debug\Project1xla.csproj.SuggestedBindingRedirects.cache
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\obj\Debug\Project1xla.exe.config
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\obj\Debug\Project1xla.Form1.resources
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\obj\Debug\Project1xla.Properties.Resources.resources
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\obj\Debug\Project1xla.csproj.GenerateResource.cache
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\obj\Debug\Project1xla.csproj.CoreCompileInputs.cache
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\obj\Debug\Project1xla.csproj.CopyComplete
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\obj\Debug\Project1xla.exe
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\obj\Debug\Project1xla.pdb
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\x64\concrt140.dll
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\x64\cvextern.dll
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\x64\msvcp140.dll
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\x64\opencv_ffmpeg341_64.dll
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\x64\vcruntime140.dll
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\x86\concrt140.dll
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\x86\cvextern.dll
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\x86\msvcp140.dll
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\x86\opencv_ffmpeg341.dll
+D:\hk2 năm 3\Thị giác máy\Project\Project1xla\Project1xla\bin\Debug\x86\vcruntime140.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\x64\concrt140.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\x64\cvextern.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\x64\msvcp140.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\x64\opencv_ffmpeg341_64.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\x64\vcruntime140.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\x86\concrt140.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\x86\cvextern.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\x86\msvcp140.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\x86\opencv_ffmpeg341.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\x86\vcruntime140.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\Project1xla.exe.config
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\Project1xla.exe
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\Project1xla.pdb
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\Emgu.CV.UI.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\Emgu.CV.World.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\OpenTK.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\OpenTK.GLControl.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\System.Buffers.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\System.Memory.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\System.Numerics.Vectors.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\System.Text.Encodings.Web.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\System.Text.Json.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\System.ValueTuple.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\ZedGraph.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\Emgu.CV.UI.xml
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\Emgu.CV.World.xml
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\OpenTK.xml
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\OpenTK.GLControl.xml
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\System.Buffers.xml
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\System.Memory.xml
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\System.Numerics.Vectors.xml
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\System.Text.Encodings.Web.xml
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\System.Text.Json.xml
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\System.ValueTuple.xml
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\ZedGraph.xml
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\de\ZedGraph.resources.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\es\ZedGraph.resources.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\fr\ZedGraph.resources.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\hu\ZedGraph.resources.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\it\ZedGraph.resources.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\ja\ZedGraph.resources.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\pt\ZedGraph.resources.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\ru\ZedGraph.resources.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\sk\ZedGraph.resources.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\sv\ZedGraph.resources.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\tr\ZedGraph.resources.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\obj\Debug\Project1xla.csproj.AssemblyReference.cache
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\obj\Debug\Project1xla.csproj.SuggestedBindingRedirects.cache
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\obj\Debug\Project1xla.exe.config
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\obj\Debug\Project1xla.Form1.resources
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\obj\Debug\Project1xla.Properties.Resources.resources
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\obj\Debug\Project1xla.csproj.GenerateResource.cache
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\obj\Debug\Project1xla.csproj.CoreCompileInputs.cache
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\obj\Debug\Project1xla.csproj.CopyComplete
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\obj\Debug\Project1xla.exe
+D:\hk2nam3\thigiacmay\Project\project1\Project1xla\Project1xla\obj\Debug\Project1xla.pdb

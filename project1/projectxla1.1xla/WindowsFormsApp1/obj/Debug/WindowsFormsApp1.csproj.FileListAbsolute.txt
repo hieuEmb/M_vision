@@ -1,0 +1,41 @@
+D:\hk2 năm 3\Thị giác máy\Project\project1\projectxla1.1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\hk2 năm 3\Thị giác máy\Project\project1\projectxla1.1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\hk2 năm 3\Thị giác máy\Project\project1\projectxla1.1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\hk2 năm 3\Thị giác máy\Project\project1\projectxla1.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\hk2 năm 3\Thị giác máy\Project\project1\projectxla1.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\hk2 năm 3\Thị giác máy\Project\project1\projectxla1.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\hk2 năm 3\Thị giác máy\Project\project1\projectxla1.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\hk2 năm 3\Thị giác máy\Project\project1\projectxla1.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\hk2 năm 3\Thị giác máy\Project\project1\projectxla1.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\hk2 năm 3\Thị giác máy\Project\project1\projectxla1.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\hk2nam3\thigiacmay\Project\project1\projectxla1.1xla\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\hk2nam3\thigiacmay\Project\project1\projectxla1.1xla\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\hk2nam3\thigiacmay\Project\project1\projectxla1.1xla\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\hk2nam3\thigiacmay\Project\project1\projectxla1.1xla\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\hk2nam3\thigiacmay\Project\project1\projectxla1.1xla\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\hk2nam3\thigiacmay\Project\project1\projectxla1.1xla\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\hk2nam3\thigiacmay\Project\project1\projectxla1.1xla\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\hk2nam3\thigiacmay\Project\project1\projectxla1.1xla\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\hk2nam3\thigiacmay\Project\project1\projectxla1.1xla\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\hk2nam3\thigiacmay\Project\project1\projectxla1.1xla\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\hk2nam3\thigiacmay\Project\project1\projectxla1.1xla\WindowsFormsApp1\bin\Debug\Emgu.CV.dll
+D:\hk2nam3\thigiacmay\Project\project1\projectxla1.1xla\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\hk2nam3\thigiacmay\Project\project1\projectxla1.1xla\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\hk2nam3\thigiacmay\Project\project1\projectxla1.1xla\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\hk2nam3\thigiacmay\Project\project1\projectxla1.1xla\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\hk2nam3\thigiacmay\Project\project1\projectxla1.1xla\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\hk2nam3\thigiacmay\Project\project1\projectxla1.1xla\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+D:\hk2nam3\thigiacmay\Project\project1\projectxla1.1xla\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+D:\hk2nam3\thigiacmay\Project\project1\projectxla1.1xla\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\hk2nam3\thigiacmay\Project\project1\projectxla1.1xla\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+D:\hk2nam3\thigiacmay\Project\project1\projectxla1.1xla\WindowsFormsApp1\bin\Debug\Emgu.CV.xml
+D:\hk2nam3\thigiacmay\Project\project1\projectxla1.1xla\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\hk2nam3\thigiacmay\Project\project1\projectxla1.1xla\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\hk2nam3\thigiacmay\Project\project1\projectxla1.1xla\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\hk2nam3\thigiacmay\Project\project1\projectxla1.1xla\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\hk2nam3\thigiacmay\Project\project1\projectxla1.1xla\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\hk2nam3\thigiacmay\Project\project1\projectxla1.1xla\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+D:\hk2nam3\thigiacmay\Project\project1\projectxla1.1xla\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+D:\hk2nam3\thigiacmay\Project\project1\projectxla1.1xla\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\hk2nam3\thigiacmay\Project\project1\projectxla1.1xla\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+D:\hk2nam3\thigiacmay\Project\project1\projectxla1.1xla\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
