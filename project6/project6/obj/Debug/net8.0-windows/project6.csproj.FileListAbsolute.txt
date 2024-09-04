@@ -1,0 +1,16 @@
+D:\hk2nam3\thigiacmay\Project\project6\project6\bin\Debug\net8.0-windows\project6.exe
+D:\hk2nam3\thigiacmay\Project\project6\project6\bin\Debug\net8.0-windows\project6.deps.json
+D:\hk2nam3\thigiacmay\Project\project6\project6\bin\Debug\net8.0-windows\project6.runtimeconfig.json
+D:\hk2nam3\thigiacmay\Project\project6\project6\bin\Debug\net8.0-windows\project6.dll
+D:\hk2nam3\thigiacmay\Project\project6\project6\bin\Debug\net8.0-windows\project6.pdb
+D:\hk2nam3\thigiacmay\Project\project6\project6\obj\Debug\net8.0-windows\project6.Form1.resources
+D:\hk2nam3\thigiacmay\Project\project6\project6\obj\Debug\net8.0-windows\project6.csproj.GenerateResource.cache
+D:\hk2nam3\thigiacmay\Project\project6\project6\obj\Debug\net8.0-windows\project6.GeneratedMSBuildEditorConfig.editorconfig
+D:\hk2nam3\thigiacmay\Project\project6\project6\obj\Debug\net8.0-windows\project6.AssemblyInfoInputs.cache
+D:\hk2nam3\thigiacmay\Project\project6\project6\obj\Debug\net8.0-windows\project6.AssemblyInfo.cs
+D:\hk2nam3\thigiacmay\Project\project6\project6\obj\Debug\net8.0-windows\project6.csproj.CoreCompileInputs.cache
+D:\hk2nam3\thigiacmay\Project\project6\project6\obj\Debug\net8.0-windows\project6.dll
+D:\hk2nam3\thigiacmay\Project\project6\project6\obj\Debug\net8.0-windows\refint\project6.dll
+D:\hk2nam3\thigiacmay\Project\project6\project6\obj\Debug\net8.0-windows\project6.pdb
+D:\hk2nam3\thigiacmay\Project\project6\project6\obj\Debug\net8.0-windows\project6.genruntimeconfig.cache
+D:\hk2nam3\thigiacmay\Project\project6\project6\obj\Debug\net8.0-windows\ref\project6.dll
